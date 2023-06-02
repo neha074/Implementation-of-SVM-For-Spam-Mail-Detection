@@ -114,4 +114,4 @@ Thus the program to implement the SVM For Spam Mail Detection is written and ver
 
 
 
-```
+
