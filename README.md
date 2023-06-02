@@ -19,12 +19,6 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 5.End the program.
 
 
-
-
-
-
-
-
 # Program:
 ```
 /*
