@@ -13,9 +13,13 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 # Algorithm
 
 1.Import the required packages.
+
 2.Import the dataset to operate on.
+
 3.Split the dataset.
+
 4.Predict the required output.
+
 5.End the program.
 
 
